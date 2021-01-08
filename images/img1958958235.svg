@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_710" width="36" height="36" data-name="Group 710" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-1{fill:none}.cls-2{fill:#b9bcc1}
+        </style>
+    </defs>
+    <path id="Rectangle_978" d="M0 0h36v36H0z" class="cls-1" data-name="Rectangle 978"/>
+    <path id="Path_806" d="M18.5 30A11.5 11.5 0 1 1 30 18.5 11.513 11.513 0 0 1 18.5 30zm0-22A10.5 10.5 0 1 0 29 18.5 10.512 10.512 0 0 0 18.5 8z" data-name="Path 806"/>
+    <path id="Path_807" d="M18.5 20a1.5 1.5 0 0 1-1.5-1.5v-7a1.5 1.5 0 0 1 3 0v7a1.5 1.5 0 0 1-1.5 1.5zm0-9a.5.5 0 0 0-.5.5v7a.5.5 0 0 0 1 0v-7a.5.5 0 0 0-.5-.5z" class="cls-2" data-name="Path 807"/>
+    <path id="Path_808" d="M23.5 24a1.5 1.5 0 0 1-1.061-.438l-5-4a1.5 1.5 0 0 1 2.122-2.122l4.959 3.96A1.5 1.5 0 0 1 23.5 24zm-5.369-5.162l4.969 3.978a.52.52 0 0 0 .749.038.5.5 0 0 0 0-.708L18.9 18.184a.52.52 0 0 0-.749-.038.5.5 0 0 0-.02.691z" class="cls-2" data-name="Path 808"/>
+    <path id="Path_809" d="M18.5 20a1.5 1.5 0 1 1 1.5-1.5 1.5 1.5 0 0 1-1.5 1.5zm0-2a.5.5 0 1 0 .5.5.5.5 0 0 0-.5-.5z" data-name="Path 809"/>
+</svg>

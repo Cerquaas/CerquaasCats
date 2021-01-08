@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="Group_649" data-name="Group 649" transform="translate(-46)">
+        <path id="Rectangle_909" d="M0 0h36v36H0z" class="cls-1" data-name="Rectangle 909" transform="translate(46)"/>
+        <g id="Group_648" data-name="Group 648">
+            <path id="Path_726" d="M68 25V6h-5v6.5a.5.5 0 0 1-.5.5H55v12h13z" class="cls-1" data-name="Path 726"/>
+            <path id="Path_727" d="M70 27V8h-1v17.5a.5.5 0 0 1-.5.5H57v1h13z" class="cls-1" data-name="Path 727"/>
+            <path id="Path_728" d="M62 6.6L55.831 12H62z" class="cls-1" data-name="Path 728"/>
+            <path id="Path_729" d="M71 27.5a.5.5 0 0 1-.5.5H59v1h13V10h-1z" class="cls-1" data-name="Path 729"/>
+            <path id="Path_730" d="M72.5 9H71V7.5a.5.5 0 0 0-.5-.5H69V5.5a.5.5 0 0 0-.5-.5h-6c-.016 0-.03.008-.046.009a.456.456 0 0 0-.062.013.5.5 0 0 0-.192.088c-.009.007-.021.006-.029.014l-8 7-.007.01a.5.5 0 0 0-.135.221c-.006.02-.008.039-.012.059A.5.5 0 0 0 54 12.5v13a.5.5 0 0 0 .5.5H56v1.5a.5.5 0 0 0 .5.5H58v1.5a.5.5 0 0 0 .5.5h14a.5.5 0 0 0 .5-.5v-20a.5.5 0 0 0-.5-.5zM62 6.6V12h-6.169zM55 25V13h7.5a.5.5 0 0 0 .5-.5V6h5v19H55zm2 2v-1h11.5a.5.5 0 0 0 .5-.5V8h1v19H57zm15 2H59v-1h11.5a.5.5 0 0 0 .5-.5V10h1z" data-name="Path 730"/>
+        </g>
+    </g>
+</svg>
